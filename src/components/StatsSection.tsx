@@ -40,18 +40,18 @@ export function StatsSection() {
   ];
 
   const leaderboard = [
-    { name: "Washington High School", score: 2840, level: "Expert", badge: "🥇" },
-    { name: "Lincoln College Prep", score: 2730, level: "Expert", badge: "🥈" },
-    { name: "Roosevelt University", score: 2650, level: "Advanced", badge: "🥉" },
-    { name: "Jefferson Middle School", score: 2580, level: "Advanced", badge: "🏆" },
-    { name: "Madison Elementary", score: 2490, level: "Intermediate", badge: "⭐" }
+    { name: "Madan Mohan Malviya University Of Technology Gorakhpur", score: 2840, level: "Expert", badge: "🥇" },
+    { name: "IIT Delhi", score: 2730, level: "Expert", badge: "🥈" },
+    { name: "DDU University", score: 2650, level: "Advanced", badge: "🥉" },
+    { name: "KNIT Sultanpur", score: 2580, level: "Advanced", badge: "🏆" },
+    { name: "IET Lucknow", score: 2490, level: "Intermediate", badge: "⭐" }
   ];
 
   const recentActivity = [
-    { user: "Sarah M.", action: "Completed Fire Safety Module", time: "2 mins ago", points: "+50" },
-    { user: "Class 10-A", action: "Finished Earthquake Drill", time: "5 mins ago", points: "+100" },
-    { user: "Mike R.", action: "Earned Flood Response Badge", time: "8 mins ago", points: "+75" },
-    { user: "Kennedy HS", action: "Perfect Quiz Score", time: "12 mins ago", points: "+25" }
+    { user: "Prakhar Shukla", action: "Completed Fire Safety Module", time: "2 mins ago", points: "+50" },
+    { user: "Vishnoo Singh", action: "Finished Earthquake Drill", time: "5 mins ago", points: "+100" },
+    { user: "Samaya", action: "Earned Flood Response Badge", time: "8 mins ago", points: "+75" },
+    { user: "Krishna Bansal", action: "Perfect Quiz Score", time: "12 mins ago", points: "+25" }
   ];
 
   return (

@@ -45,7 +45,7 @@ export function Footer() {
                 <Shield className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h3 className="text-xl">SafeEdu</h3>
+                <h3 className="text-xl">Suraksha</h3>
                 <p className="text-sm text-muted-foreground">Disaster Preparedness Platform</p>
               </div>
             </div>
@@ -58,11 +58,11 @@ export function Footer() {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 text-sm">
                 <Phone className="h-4 w-4 text-muted-foreground" />
-                <span>1-800-SAFE-EDU (1-800-723-3338)</span>
+                <span>1-800-Suraksha (1-800-723-3338)</span>
               </div>
               <div className="flex items-center space-x-3 text-sm">
                 <Mail className="h-4 w-4 text-muted-foreground" />
-                <span>support@safeedu.org</span>
+                <span>support@Suraksha.org</span>
               </div>
               <div className="flex items-center space-x-3 text-sm">
                 <MapPin className="h-4 w-4 text-muted-foreground" />
@@ -160,7 +160,7 @@ export function Footer() {
               </a>
             ))}
           </div>
-          <p>© 2024 SafeEdu. All rights reserved. Keeping schools safe, one student at a time.</p>
+          <p>© 2024 Suraksha. All rights reserved. Keeping schools safe, one student at a time.</p>
         </div>
       </div>
     </footer>

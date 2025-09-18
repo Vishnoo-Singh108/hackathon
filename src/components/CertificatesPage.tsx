@@ -148,7 +148,7 @@ export function CertificatesPage({ userData, isAuthenticated, onNavigate }: Cert
   };
 
   const shareCertificate = (certificate: Certificate) => {
-    const shareText = `I just earned the "${certificate.title}" certificate with a score of ${certificate.score}% on SafeEdu! 🏆`;
+    const shareText = `I just earned the "${certificate.title}" certificate with a score of ${certificate.score}% on Suraksha! 🏆`;
     
     if (navigator.share) {
       navigator.share({

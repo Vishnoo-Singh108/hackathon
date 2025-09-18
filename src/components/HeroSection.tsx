@@ -66,7 +66,7 @@ export function HeroSection({ onNavigate }: HeroSectionProps) {
               </motion.div>
               
               <motion.h1 
-                className="text-4xl lg:text-6xl tracking-tight"
+                className="text-4xl lg:text-6xl ml-4 tracking-tight"
                 initial={{ opacity: 0, y: 30 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.4, duration: 0.8 }}

@@ -233,7 +233,7 @@ export function AuthModal({ isOpen, onClose, onAuthSuccess }: AuthModalProps) {
                   className="text-center space-y-2"
                 >
                   <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent" aria-live="polite">
-                    {isLogin ? 'Welcome Back' : 'Join SafeEdu'}
+                    {isLogin ? 'Welcome Back' : 'Join Suraksha'}
                   </h3>
                   <p className="text-gray-600" aria-live="polite">
                     {isLogin 
